@@ -1,0 +1,22 @@
+{
+  "name": "bee-bank",
+  "version": "1.0.0",
+  "description": "A app to keep track of honey money",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vguillaume8/Bee-Bank.git"
+  },
+  "author": "Evans Yeboah & Vinston Guillaume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vguillaume8/Bee-Bank/issues"
+  },
+  "homepage": "https://github.com/vguillaume8/Bee-Bank#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
